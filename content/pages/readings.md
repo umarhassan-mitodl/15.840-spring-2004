@@ -231,7 +231,7 @@ Theory: Customer Satisfaction
 
 Menezes, Melvyn A. J., and Jon D. Serbin. "Xerox Corp.: The Customer Satisfaction Program." Boston, MA: Harvard Business School, 1993. Case No. 9-591-055.
 
-Case, John. "Customer Service: The Last Word." _Inc. Magazine_, April 1991. Available at the Web site of {{% resource_link "c8981b88-fd76-4449-ad7d-0d4bf4092147" "_Inc. Magazine_" %}}.
+Case, John. "Customer Service: The Last Word." _Inc. Magazine_, April 1991. Available at the Web site of [_Inc. Magazine_](http://www.inc.com/).
 
 
 {{< tdclose >}}
