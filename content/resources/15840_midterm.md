@@ -4,6 +4,8 @@ description: ''
 file: /courses/15-840-special-seminar-in-marketing-marketing-management-spring-2004/0574b3cc8727a43370a084d7df723875_15840_midterm.pdf
 file_size: 15619
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
